@@ -1,0 +1,1 @@
+My possible course project is a scheduling business management system. The application would help businesses organize appointments and manage their schedules. Users could create accounts and view or manage scheduled services. The goal would be to make scheduling and business management easier and more organized.
